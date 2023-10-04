@@ -35,7 +35,7 @@
     "list.activeSelectionBackground": "#4b6eaf",
     "list.dropBackground": "#474b4d",
     "list.focusBackground": "#4b6eaf",
-    "list.hoverBackground": "#4b6eaf",
+    "list.hoverBackground": "#4d535a",
     "list.inactiveSelectionBackground": "#313335",
     "list.errorForeground": "#f35d45",
     "list.warningForeground": "#bbbbbb",
@@ -76,7 +76,7 @@
     "titleBar.inactiveBackground": "#313335",
     "notebook.focusedCellBorder": "#4787C9",
     "notebook.cellHoverBackground": "#313335",
-    "notebook.focusedEditorBorder": "#505050",
+    "notebook.focusedEditorBorder": "#505050"
   },
   "tokenColors": [
     {
